@@ -1,3 +1,7 @@
+#!/usr/bin/python3
+# Author: [a-ghost-named-x]
+# Date: [03/19/23]
+
 import os
 import numpy as np
 import PIL.Image
